@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Isaam — Cybersecurity Enthusiast & Analyst
 
-<!--
-**isaamshafiq0/isaamshafiq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a recent graduate from Air University Islamabad with a Bachelor's in Cybersecurity  and a passion for building defensive and offensive cyber skills.
 
-Here are some ideas to get you started:
+## 🔒 Skills & Tools:
+- SOC & Blue Team: Splunk, Wireshark, ELK Stack, MITRE ATT&CK
+- Red Team & Pentesting: Nmap, Burp Suite, Metasploit, Kali Linux, TryHackMe
+- Programming: Python (for scripts, automation), Bash
+- Certifications: EC-Council | Coursera | (ISC)²
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Currently Learning:
+- Advanced Threat Hunting
+- Cloud Security (Microsoft Azure & AWS)
+- Preparing for eJPT & Security+
+
+## 📬 Let's Connect!
+- LinkedIn:https://www.linkedin.com/in/isaam-shafiq-075947176/
+- Email: isaamshafiq0@gmail.com
